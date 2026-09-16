@@ -55,3 +55,13 @@ The solution (`RpsTournament`) consists of two main projects:
 * **Object-Oriented Programming & Data Structures**: Enums, structs, static classes.
 * **Algorithms**: Random number generation (`Random.Shared`), pattern matching (`switch` expressions) for round outcome calculation.
 * **WPF Elements**: `DataGrid`, `Grid`, `StackPanel`, custom button control templates, and localized resource integration (`Resources.resx`).
+
+## View  
+
+<img width="786" height="722" alt="image" src="https://github.com/user-attachments/assets/b9198782-e1fc-4b97-bdef-3399e3221aea" />
+<img width="784" height="714" alt="image" src="https://github.com/user-attachments/assets/d558b130-4f16-48b3-9ed2-75e9a6f3781a" />
+<img width="789" height="722" alt="image" src="https://github.com/user-attachments/assets/f91347f2-3f01-445c-859d-14d16cbb90c9" />
+<img width="786" height="720" alt="image" src="https://github.com/user-attachments/assets/cadf42b1-5070-4359-a23b-f15de724252a" />
+
+
+
