@@ -1,9 +1,26 @@
 ﻿<Application x:Class="RpsTournament.WpfApp.App"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:RpsTournament.WpfApp"
-             StartupUri="MainWindow.xaml">
-    <Application.Resources>
-         
-    </Application.Resources>
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:RpsTournament.WpfApp"
+    StartupUri="MainWindow.xaml">
+
+    <Application.Resources></Application.Resources>
 </Application>
+
+<!-- Connects this XAML file to the App code-behind class in C#
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+Primary WPF namespace for standard UI elements and controls
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+Namespace for XAML language features (like x:Class and bindings)
+xmlns:local="clr-namespace:RpsTournament.WpfApp"
+
+Creates the local shortcut to link XAML with C# project namespaces
+xmlns:local="clr-namespace:RpsTournament.WpfApp"
+
+Specifies the primary window to open first upon application startup
+StartupUri="MainWindow.xaml">
+
+Container for application-wide resources, styles, and global themes
+<Application.Resources></Application.Resources> -->
